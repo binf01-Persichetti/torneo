@@ -6,7 +6,8 @@ package torneopersichetti;
 
 /**
  *
- * @author B045_10
+ * @author LorenzoPersi
+ @see scheda esercitazione
  */
 public class TorneoPersichetti {
 
